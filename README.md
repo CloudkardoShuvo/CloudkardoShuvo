@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently Working **Cloud Engineer, DevOps Engineer**
 
-- 👨‍💻 All of my projects are available at [https://shuvokarjit.wixsite.com/shuvo1996](https://shuvokarjit.wixsite.com/shuvo1996)
 
 - 📝 I regularly write articles on [https://hashnode.com/@Shuvo1996](https://hashnode.com/@Shuvo1996)
 
