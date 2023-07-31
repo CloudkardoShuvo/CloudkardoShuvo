@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shuvosodler1996" alt="shuvosodler1996" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shuvo1996kar" target="blank"><img src="https://img.shields.io/twitter/follow/shuvo1996kar?logo=twitter&style=for-the-badge" alt="shuvo1996kar" /></a> </p>
 
 - 🌱 I’m currently Working **Cloud Engineer, DevOps Engineer**
 
