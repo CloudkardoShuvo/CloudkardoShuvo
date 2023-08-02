@@ -1,7 +1,7 @@
 👋,Welcome to my Profile! I'm grateful to share about myself, Call me And mail shuvokarjit@gmail.com I'm Shuvojit Kar . </h1>
 <h3 align="center">Cloud Domain|DevOps Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvosodler1996&label=Profile%20views&color=0e75b6&style=flat" alt="shuvosodler1996" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shuvosodler1996" alt="shuvosodler1996" /></a> </p>
 
