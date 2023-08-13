@@ -28,4 +28,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cloudkardoshuvo&" alt="cloudkardoshuvo" /></p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-https://camo.githubusercontent.com/5ef119eb18ce8c96458b0691cafa4a2e3735814d20c0e6bdb84eadc108c6d991/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f6d656469612f33323039383461396361353862336337333237346339323539656366366465382e676966
+https://github.com/PrinceSinghhub/github-readme-stats
