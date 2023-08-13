@@ -7,6 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/shuvo1996kar" target="blank"><img src="https://img.shields.io/twitter/follow/shuvo1996kar?logo=twitter&style=for-the-badge" alt="shuvo1996kar" /></a> </p>
 
+- 🔭 I’m currently working on **Technical Blog**
+
+- 🌱 I’m currently Working **Cloud Engineer, DevOps Engineer**
 
 - 👨‍💻 All of my projects are available at [https://shuvokarjit.wixsite.com/shuvo1996](https://shuvokarjit.wixsite.com/shuvo1996)
 
@@ -31,6 +34,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cloudkardoshuvo&show_icons=true&locale=en" alt="cloudkardoshuvo" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cloudkardoshuvo&" alt="cloudkardoshuvo" /></p>
 
 
