@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cloudkardoshuvo" alt="cloudkardoshuvo" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shuvo1996kar" target="blank"><img src="https://img.shields.io/twitter/follow/shuvo1996kar?logo=twitter&style=for-the-badge" alt="shuvo1996kar" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kar_shuvoj78744"   " target="blank"><img src="https://img.shields.io/twitter/follow/shuvo1996kar?logo=twitter&style=for-the-badge" alt="shuvo1996kar" /></a> </p>
 
 - 🔭 I’m currently working on **Technical Blog**
 
