@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently Working **Cloud Engineer, DevOps Engineer**
 
-- 📫 How to reach me **shuvokarjit@gmail.com**
+- 📫 How to reach me **shuvojitkar1356@gmail.com**
 
 - ⚡ About **Welcome to my Profile! I'm grateful to share about myself, Call me Shuvojit Kar I am an energetic, ambitious person who has developed a mature and responsible approach to any task that I undertake, or situation that I am presented with. I am excellent at working with others to achieve a certain objective on time and with excellence.**
 
@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/kar_shuvoj78744" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kar_shuvoj78744" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shuvojit-kar-0121521b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shuvojit-kar-0121521b3/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/cloud_derek_ruler/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/cloud_derek_ruler/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/cloud_derek_ruler/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-
 <a href="https://hashnode.com/https://hashnode.com/@shuvo1996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@shuvo1996" height="30" width="40" /></a>
 <a href="/https://shuvokarjit.wixsite.com/shuvo1996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://shuvokarjit.wixsite.com/shuvo1996" height="30" width="40" /></a>
 </p>
